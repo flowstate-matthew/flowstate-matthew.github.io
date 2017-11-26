@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://flowstate.ca/post/first-post/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/post/swimming/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/post/exercise/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/tags/being-better/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/series/being-your-best-self/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/tags/exercise/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/post/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/series/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/tags/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://flowstate.ca/</loc>
+    <lastmod>2017-11-25T18:23:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

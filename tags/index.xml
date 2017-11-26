@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The State of Flow</title>
+    <link>http://flowstate.ca/tags/</link>
+    <description>Recent content in Tags on The State of Flow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2017 18:23:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://flowstate.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being Better</title>
+      <link>http://flowstate.ca/tags/being-better/</link>
+      <pubDate>Sat, 25 Nov 2017 18:23:00 -0500</pubDate>
+      
+      <guid>http://flowstate.ca/tags/being-better/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercise</title>
+      <link>http://flowstate.ca/tags/exercise/</link>
+      <pubDate>Sat, 25 Nov 2017 18:23:00 -0500</pubDate>
+      
+      <guid>http://flowstate.ca/tags/exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
