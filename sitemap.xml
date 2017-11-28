@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://flowstate.ca/about/</loc>
-    <lastmod>2017-11-26T08:13:46-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://flowstate.ca/page/about/</loc>
-    <lastmod>2017-11-26T08:12:39-05:00</lastmod>
+    <loc>http://flowstate.ca/page/cv/</loc>
+    <lastmod>2017-11-27T21:41:02-05:00</lastmod>
   </url>
   
   <url>
@@ -40,11 +35,6 @@
   </url>
   
   <url>
-    <loc>http://flowstate.ca/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://flowstate.ca/tags/exercise/</loc>
     <lastmod>2017-11-25T18:23:00-05:00</lastmod>
     <priority>0</priority>
@@ -52,7 +42,7 @@
   
   <url>
     <loc>http://flowstate.ca/page/</loc>
-    <lastmod>2017-11-26T08:12:39-05:00</lastmod>
+    <lastmod>2017-11-27T21:41:02-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,7 +66,7 @@
   
   <url>
     <loc>http://flowstate.ca/</loc>
-    <lastmod>2017-11-26T08:12:39-05:00</lastmod>
+    <lastmod>2017-11-27T21:41:02-05:00</lastmod>
     <priority>0</priority>
   </url>
   

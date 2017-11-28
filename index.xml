@@ -6,18 +6,18 @@
     <description>Recent content on The State of Flow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2017 08:12:39 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 21:41:02 -0500</lastBuildDate>
     
 	<atom:link href="http://flowstate.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>http://flowstate.ca/page/about/</link>
-      <pubDate>Sun, 26 Nov 2017 08:12:39 -0500</pubDate>
+      <title>Circ vit</title>
+      <link>http://flowstate.ca/page/cv/</link>
+      <pubDate>Mon, 27 Nov 2017 21:41:02 -0500</pubDate>
       
-      <guid>http://flowstate.ca/page/about/</guid>
-      <description>How about this?</description>
+      <guid>http://flowstate.ca/page/cv/</guid>
+      <description>Put all the stuff that I&amp;rsquo;ve done here</description>
     </item>
     
     <item>
@@ -48,7 +48,8 @@ Something else that could be good</description>
       
       <guid>http://flowstate.ca/post/exercise/</guid>
       <description>You don&amp;rsquo;t have to go crazy with it, but it&amp;rsquo;s important
-Not the most important thing &amp;hellip; but it&amp;rsquo;s up there.</description>
+Not the most important thing &amp;hellip; but it&amp;rsquo;s up there.
+All the good stuff</description>
     </item>
     
   </channel>
